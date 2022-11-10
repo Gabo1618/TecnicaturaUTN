@@ -1,4 +1,4 @@
-/*Ejercicio para encontrar numeros pares 
+/*Ejercicio para encontrar numeros pares.
 
 */
 let parInpar = 10;
@@ -9,7 +9,7 @@ else{
     console.log("Es un número Impar");
 }
 
-//Ejercicio Mayor de edad
+//Ejercicio Mayor de edad.
 
 let edad = 20, adulto = 18;
 if(edad >= adulto){
@@ -18,9 +18,9 @@ if(edad >= adulto){
 else{
     console.log("Es una persona menor de edad")
 }
-//Ejercicio: dentro de un rango
+//Ejercicio: dentro de un rango.
 
-let dentroRango = 5; //Aqui vamos ir cambiando el valor
+let dentroRango = 5; //Aqui vamos ir cambiando el valor.
 let valMin = 0, valMax = 10;
 if(dentroRango >= valMin && dentroRango <= valMax){
     console.log('Esta dentro del rango establecido')
